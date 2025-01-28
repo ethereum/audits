@@ -18,4 +18,10 @@ Each audit was performed sequentially in the order below and integrated fixes ba
 
 4. **[Sigma Prime Audit](Pectra/Sigma_Prime_Ethereum_Foundation_Pectra_System_Contracts_Bytecode.pdf)**
 
+## Formal Verification
+
+Formal verification was conducted independently and concurrently with the security audits to provide additional assurance that the compiled bytecode of the Pectra system contracts conforms to their EIP specifications.
+
+1. **[a16z Halmos Formal Verification](https://github.com/daejunpark/sys-asm-halmos)**: The linked repository contains detailed information on the verification process. It also includes all verification artifacts, which can be reproduced and further extended by anyone. These artifacts are actively maintained and updated to reflect the latest version of the Pectra system contracts.
+
 ---
