@@ -7,7 +7,7 @@ This repository contains the audit reports for the Pectra System Contracts, cove
 
 Each audit was performed sequentially in the order below and integrated fixes based on the previous reports, meaning that issues discovered by earlier auditors were typically resolved before the next audit commenced.
 
-1. **[Blackthorn Audit](Blackthorn_Audit_2024_09_12_Final_Ethereum_Foundation_Blackthorn.pdf)**
+1. **[Blackthorn Audit](2025_02_04_Final_Ethereum_Foundation_Collaborative_Audit_Report.pdf)**
 
 2. **Dedaub Audits**  
    - [EIP2935](Dedaub%20-%20EIP2935.pdf)
